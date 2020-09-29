@@ -1,2 +1,2 @@
 # venukalam-resume
-My resume
+My resume : https://venukalam.github.io/venukalam-resume/
